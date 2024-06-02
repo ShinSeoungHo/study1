@@ -1,0 +1,5 @@
+ip/order-details/1
+ip/order-details/2
+ip/order-details/[id]
+
+로 접근할 수 있다.
